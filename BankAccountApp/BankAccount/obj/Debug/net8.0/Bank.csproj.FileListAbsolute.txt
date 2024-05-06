@@ -1,0 +1,11 @@
+C:\Users\nuluja\PracticeCodes\Dotnet\vscode\BankAccountApp\BankAccount\bin\Debug\net8.0\Bank.deps.json
+C:\Users\nuluja\PracticeCodes\Dotnet\vscode\BankAccountApp\BankAccount\bin\Debug\net8.0\Bank.dll
+C:\Users\nuluja\PracticeCodes\Dotnet\vscode\BankAccountApp\BankAccount\bin\Debug\net8.0\Bank.pdb
+C:\Users\nuluja\PracticeCodes\Dotnet\vscode\BankAccountApp\BankAccount\obj\Debug\net8.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuluja\PracticeCodes\Dotnet\vscode\BankAccountApp\BankAccount\obj\Debug\net8.0\Bank.AssemblyInfoInputs.cache
+C:\Users\nuluja\PracticeCodes\Dotnet\vscode\BankAccountApp\BankAccount\obj\Debug\net8.0\Bank.AssemblyInfo.cs
+C:\Users\nuluja\PracticeCodes\Dotnet\vscode\BankAccountApp\BankAccount\obj\Debug\net8.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\nuluja\PracticeCodes\Dotnet\vscode\BankAccountApp\BankAccount\obj\Debug\net8.0\Bank.dll
+C:\Users\nuluja\PracticeCodes\Dotnet\vscode\BankAccountApp\BankAccount\obj\Debug\net8.0\refint\Bank.dll
+C:\Users\nuluja\PracticeCodes\Dotnet\vscode\BankAccountApp\BankAccount\obj\Debug\net8.0\Bank.pdb
+C:\Users\nuluja\PracticeCodes\Dotnet\vscode\BankAccountApp\BankAccount\obj\Debug\net8.0\ref\Bank.dll
